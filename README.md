@@ -17,3 +17,5 @@ Technologies Used
 HTML
 CSS
 JavaScript
+
+![Screenshot 2024-05-08 014028](https://github.com/Mukeshlodhi2022/Tic-Tac-Toe/assets/113654379/6bb553b6-c114-4f53-ba4a-054c83e62afb)
